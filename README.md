@@ -1,3 +1,6 @@
+本项目为CyC2018分享，我fork后添加自己的笔记知识，更加方便自己阅读。
+master为CyC2018 原创内容和我的临时添加，my-knowledge分支为合并的备份，完整版。
+---
 # 数据结构与算法
 
 > [算法](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/算法.md)
@@ -18,7 +21,7 @@
 
 # 网络
 
-> [计算机网络](https://github.com/CyC2018/InnterviewNotes/blob/master/notes/计算机网络.md)
+> [计算机网络](https://github.com/xbhoneybee/InnterviewNotes/blob/master/notes/计算机网络.md)
 
 整理自《计算机网络 第七版》，重点内容会在标题之后加 \*。
 
